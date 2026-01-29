@@ -1,10 +1,10 @@
 /**
  * 
  */
-package org.lapaloma.esa.esa.vo;
+package org.lapaloma.esa.vo;
 
 /**
- * Clase VO que maneja información de Cuerpos Celestes.
+ * Clase VO que maneja información de entidades de tipo Cuerpo Celeste.
  * 
  * @author Isidoro Nevares Martín - IES Virgen de la Paloma
  * @date 29 enero 2026

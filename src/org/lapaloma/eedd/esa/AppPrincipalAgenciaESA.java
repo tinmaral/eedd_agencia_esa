@@ -5,7 +5,7 @@ package org.lapaloma.eedd.esa;
 
 import org.lapaloma.eedd.esa.dao.ICuerpoCelesteDAO;
 import org.lapaloma.eedd.esa.dao.array.CuerpoCelesteDaoArray;
-import org.lapaloma.esa.esa.vo.CuerpoCeleste;
+import org.lapaloma.esa.vo.CuerpoCeleste;
 
 /**
  * Clase principal que permite trabajar con entidades de la Agencia ESA (Agencia Europea del Espacio).
@@ -23,7 +23,7 @@ public class AppPrincipalAgenciaESA {
 
         ICuerpoCelesteDAO interfazAlumno= null;
         int idCuerpo= 2;  // Se usará para buscar el cuerpo Celeste que tiene como identificador 2
-        System.out.println("Cuerpo celeste con identificador: " + idCuerpo + " [realizado por XXX]");
+        System.out.println("Cuerpo celeste con identificador: " + idCuerpo + " [realizado por XXX ]");
 
         interfazAlumno = new CuerpoCelesteDaoArray();
         // Consultar de Cuerpo Celeste por ID
