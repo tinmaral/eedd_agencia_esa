@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.lapaloma.eedd.esa.dao.ICuerpoCelesteDAO;
-import org.lapaloma.esa.vo.CuerpoCeleste;
+import org.lapaloma.eedd.esa.vo.CuerpoCeleste;
 
 
 /**

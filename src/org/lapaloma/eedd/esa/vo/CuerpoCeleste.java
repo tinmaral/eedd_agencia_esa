@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.lapaloma.esa.vo;
+package org.lapaloma.eedd.esa.vo;
 
 /**
  * Clase VO que maneja información de entidades de tipo Cuerpo Celeste.

@@ -5,7 +5,7 @@ package org.lapaloma.eedd.esa.dao;
 
 import java.util.List;
 
-import org.lapaloma.esa.vo.CuerpoCeleste;
+import org.lapaloma.eedd.esa.vo.CuerpoCeleste;
 
 /**
  * Interfaz con las operaciones a realizar sobre un Cuerpo Celeste.
